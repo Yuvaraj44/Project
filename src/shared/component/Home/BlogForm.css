@@ -1,0 +1,102 @@
+/* src/Home/BlogForm.css */
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.posts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+.blog-post {
+  position: relative;
+  text-align: left;
+  background-color:azure;
+}
+
+.blog-post button {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 5px 10px;
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+form {
+  margin: 20px 0;
+}
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.button8 {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color:rgb(226, 170, 66);
+}
+
+.app1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+  /* *********************************************************************** */
+  .fin1{
+    width: 50% !important;
+    background-color: #F6B300 !important;
+    border-radius: 20px !important;
+  }
+  .main5{
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center;
+    gap: 60px;
+
+  }
+  .App{
+   background-color: rgb(250, 250, 250);
+   margin-top: 50px;
+  }
+  .area1{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 200px;
+
+  }
+  .title4{
+    font-size: 200px;
+    font-weight: 900;
+  }
+  .nan2{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    font-weight: 400;
+  }
+  .nan1{
+    font-size: 20px;
+ 
+    color: black;
+    margin-bottom: 100px;
+   
+  }
+  .nan3{
+    font-size: medium;
+    font-weight: 900;
+  }
+  .sde1{
+    width: 600px;
+    height: 400px;
+  }
